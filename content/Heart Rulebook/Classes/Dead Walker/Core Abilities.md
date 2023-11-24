@@ -1,0 +1,7 @@
+# DEATH FOLLOWS CLOSE
+You never knew anyone could love you as much as your own death. You are followed around by a manifestation of your death that is invisible and intangible to everyone but you – although when you are on the verge of dying, or in places that resonate heavily with death and sorrow, it might be visible to others. 
+The exact appearance of it is up to you. The first time each session you suffer Major Blood, Mind or Fortune fallout, your death manifests to protect you and inflicts D8 stress on whatever caused the fallout.
+
+# ENTER THE GREY
+You know the trick of stepping sideways into the Grey: the space between the worlds of the living and the worlds of the dead. Roll Delve+Religion to enact this ritual. It takes around ten minutes of preparation, e.g. donning ritual garb, inhaling sacred smoke, communing with your death and so on. On a success, the smoke clears, and you (and anyone you bring with you) are in the Grey.
+Within the Grey, the world is a shadowy echo of its living counterpart. Some souls linger here, awaiting their eternal reward, but for the most part it is grim, empty and monochrome. (For more information on travelling and surviving the Grey, see p. 169.) Exiting the Grey is a simple enough task for a Deadwalker and those they ferry across; it’s a Delve+Religion roll for anyone else.
