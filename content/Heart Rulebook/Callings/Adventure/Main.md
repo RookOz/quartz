@@ -3,7 +3,6 @@ The City Above holds no more excitement for you. In the City Beneath, on the kni
 # Core Ability
 LEGENDARY: You strive to live up to the stories that they’ll tell of your exploits. When you gain a minor advance, refresh D6. When you gain a major advance, refresh D8.
 
-
 # Character creation questions
 • What drove you out of the City Above?
 • You and another player character barely escaped from a dangerous situation recently. Who was it and what happened?
