@@ -1,5 +1,5 @@
 # BACKSTAB
-They were fools to have trusted you. When you attack a target who is unaware of your position with a one-handed melee weapon, your attacks gain the Piercing tag.
+They were fools to have trusted you. When you attack a target who is unaware of your position with a one-handed melee weapon, your attacks gain the [[Tags#PIERCING|PIERCING tag]].
 
 ## MINOR: DEAD EYE
 The benefit also applies to ranged weapons.

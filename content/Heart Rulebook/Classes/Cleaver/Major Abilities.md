@@ -1,8 +1,8 @@
 # BLOODBOUND BEAST
-You are accompanied by a ragged cryptid that follows your commands – an ancient stone-browed stag, a razortoothed heartsblood hound or something stranger. You feed it your blood, and it fights for you. You gain the Bloodbound tag on all weapons as you and your companion work in concert.
+You are accompanied by a ragged cryptid that follows your commands – an ancient stone-browed stag, a razortoothed heartsblood hound or something stranger. You feed it your blood, and it fights for you. You gain the [[Tags#BLOODBOUND|BLOODBOUND tag]] on all weapons as you and your companion work in concert.
 
 ## MINOR: PACK HUNTER
-If you mark stress to Blood to activate the Bloodbound tag, roll with mastery when you use the Delve and Hunt skills for the remainder of the current situation.
+If you mark stress to Blood to activate the [[Tags#BLOODBOUND|BLOODBOUND tag]], roll with mastery when you use the Delve and Hunt skills for the remainder of the current situation.
 
 ## MINOR: POUNCE
 Once per situation, select an adversary you can see. That adversary marks D6 stress as your companion leaps on them.
@@ -11,7 +11,7 @@ Once per situation, select an adversary you can see. That adversary marks D6 str
 If you take Critical fallout and would die, you do not die – instead, you are rescued by your companion and dragged to safety at the nearest landmark. Your companion dies in your arms, exhausted and wounded, after you regain consciousness. Remove BLOODBOUND BEAST from your character sheet and gain an immediate major advance. You can’t access BLOODBOUND BEAST ever again.
 
 # CHIMERIC STRAIN
-With the sound of cracking muscle and twisting tendon, your form is transmuted into something terrifying. When you activate this power, mark D4 stress to Echo. For the remainder of the current situation, all melee attacks you make gain the Brutal and Wyrd tags.
+With the sound of cracking muscle and twisting tendon, your form is transmuted into something terrifying. When you activate this power, mark D4 stress to Echo. For the remainder of the current situation, all melee attacks you make gain the [[Tags#BRUTAL|BRUTAL tag]] and [[Tags#WYRD|WYRD tag]].
 
 ## MINOR: BLIGHTED
 When you activate CHIMERIC STRAIN, increase the Echo stress inflicted by 1 step and gain +2 Blood Protection until the end of the current situation in addition to any other effects.
@@ -23,7 +23,7 @@ When you activate CHIMERIC STRAIN, increase the Echo stress inflicted by 1 step 
 When you activate CHIMERIC STRAIN, increase the Echo stress inflicted by 1 step and ignore the effects of Blood fallout until the end of the situation. You fight on, heedless of the pain.
 
 # EXTINCTION BOW
-You carry a huge bow capable of launching specially madearrows at your prey – the mark of a true heartsblooded hunter. When you take this ability, you gain access to (or build) an enormous ranged weapon with the following profile: (Kill D10, Tiring, Ranged, Expensive.)
+You carry a huge bow capable of launching specially madearrows at your prey – the mark of a true heartsblooded hunter. When you take this ability, you gain access to (or build) an enormous ranged weapon with the following profile: (Kill D10, [[Tags#TIRING|TIRING tag]], [[Tags#RANGED|RANGED tag]], [[Tags#EXPENSIVE|EXPENSIVE tag]]).
 
 ## MINOR: HARPOON
 Once per situation, when you inflict stress to an adversary with the EXTINCTION BOW, you attach yourself to them with a rope or chain. They can’t flee while attached – and neither can you.

@@ -1,1 +1,4 @@
-![[Pasted image 20231125001301.png]]
+![[Witch  Core Traits.png]]
+[[Tags#BLOODBOUND|BLOODBOUND tag]]
+[[Tags#RANGED|RANGED tag]]
+[[Tags#RELOAD|RELOAD tag]]

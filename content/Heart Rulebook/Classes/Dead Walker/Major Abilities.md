@@ -1,3 +1,4 @@
+
 # DESCENT
 You push through purgatory into the storied lands of thedead. When you are in [[Heart Rulebook/Classes/Dead Walker/Core Abilities#ENTER THE GREY|The Grey]], you may undertake a delve to one of the eight heavens listed in the landmark section. Choose which one you have access to when you take this advance.
 The delve will be Risky unless you and your companions dress in ritual garb and make suitable preparations to enter the heaven in question. Returning to the Grey requires another delve, which can be harder or easier than the initial one depending on whether the heaven wants to keep you there.
@@ -25,16 +26,16 @@ Once per session, when you’re in a location with a domain that you do not poss
 
 # INVIDIOUS SPECTRE
 Your death has got your back – right up until it can claim you for itself. Your death manifests as poltergeist activity and other supernatural phenomena that distresses and confuses your enemies. 
-Any weapon you carry is considered to have the Conduit tag, and as such, you can mark D4 stress to Mind to roll with mastery when you attack for the remainder of the current situation.
+Any weapon you carry is considered to have the [[Tags#CONDUIT|CONDUIT tag]], and as such, you can mark D4 stress to Mind to roll with mastery when you attack for the remainder of the current situation.
 
 ## MINOR: SOOTHE
 Once per session, when you mark stress, add 1 to any of your Protection values. This increase remains in place until the end of the session.
 
 ## MINOR: GHOULISH GRASP
-Once per situation, a weapon you are carrying has the Debilitating tag.
+Once per situation, a weapon you are carrying has the [[Tags#DEBILITATING|DEBILITATING tag]].
 
 ## MINOR: ETHEREAL TOUCH
-If you mark stress to activate the Conduit tag on your weapon, it gains the Piercing tag.
+If you mark stress to activate the [[Tags#CONDUIT|CONDUIT tag]] on your weapon, it gains the [[Tags#PIERCING|PIERCING tag]].
 
 # REAPER’S STRIKE
 You forsake defence for a single, decisive blow. When you attack an adversary, you can choose to lose your Blood protection for the attack before you roll. If you do so and succeed or partially succeed, add your Blood protection value to the stress inflicted.
@@ -46,7 +47,7 @@ If the first dice you roll to determine the stress inflicted on an adversary sho
 When you have 4 or more stress marked to Blood or are suffering from ongoing Blood fallout, gain +2 Blood Protection.
 
 ## MINOR: SCYTHING BLOW 
-Once per situation, treat your weapon as though it has the Spread tag when you inflict stress to an adversary.
+Once per situation, treat your weapon as though it has the [[Tags#SPREAD|SPREAD tag]] when you inflict stress to an adversary.
 
 # SUDDEN DEATH
 Your soul is so poorly attached to your body that you can dive headlong into the Grey without warning. [[Heart Rulebook/Classes/Dead Walker/Core Abilities#ENTER THE GREY|ENTER THE GREY]] no longer takes ten minutes to cast – it is instantaneous. Bringing others along with you when you cast it in this manner makes the action Risky.

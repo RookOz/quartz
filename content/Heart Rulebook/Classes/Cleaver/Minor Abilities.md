@@ -11,7 +11,7 @@ You’ve eaten people. Sometimes to survive; other times to prosper. Gain the De
 Gain access to one of the following domains: Cursed, Desolate, Occult, Religion, Wild, Warren. You can take this advance more than once.
 
 # FELL METABOLISM
-Food is just fuel to stoke the fire undying within you. Gain the Endure skill. When you use [[Heart Rulebook/Classes/Cleaver/Core Abilities#THE RED FEAST|THE RED FEAST]] ability, you may choose to have your attacks gain the Brutal tag for a number of actions equal to the amount rolled on the resource dice instead of gaining a domain.
+Food is just fuel to stoke the fire undying within you. Gain the Endure skill. When you use [[Heart Rulebook/Classes/Cleaver/Core Abilities#THE RED FEAST|THE RED FEAST]] ability, you may choose to have your attacks gain the [[Tags#BRUTAL|BRUTAL tag]] for a number of actions equal to the amount rolled on the resource dice instead of gaining a domain.
 
 # FRACTURED FORM
 Your flesh glistens with mirror shards that twitch and glitter to blur your silhouette. Gain the Evade skill. Small animals and insects are drawn to you and will perform your bidding to their best of their limited ability.
@@ -34,7 +34,7 @@ You’ve fought tooth and nail in tunnels and pits to defend what’s yours. Gai
 When you use this power, the target gets the uncanny feeling that they’re under threat.
 
 # UNMAKING CLAWS
-Your hands, anointed in the blood of angels, flicker in and out of reality. Gain the Kill skill. Your unarmed attacks gain the Piercing tag.
+Your hands, anointed in the blood of angels, flicker in and out of reality. Gain the Kill skill. Your unarmed attacks gain the [[Tags#PIERCING|PIERCING tag]].
 
 # VESSEL
 You let the energies of the Heart wash through you and fill you with glory, rather than struggling against them. Gain +2 Echo protection.

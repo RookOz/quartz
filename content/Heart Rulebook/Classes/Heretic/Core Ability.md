@@ -1,9 +1,2 @@
-MINISTRATIONS
-You offer solace and calm in a world of chaos. Once per
-session, lead your allies in a service of praise to the
-Moon Beneath (how you practice your faith is up to
-you). All player characters who took part can remove
-one Minor Blood or Mind fallout, or downgrade
-one Major Blood or Mind fallout to Minor, at the
-end of the service. If you perform this service whilst
-on a delve, add +D4 to the delve’s resistance.
+# MINISTRATIONS
+You offer solace and calm in a world of chaos. Once per session, lead your allies in a service of praise to the Moon Beneath (how you practice your faith is up to you). All player characters who took part can remove one Minor Blood or Mind fallout, or downgrade one Major Blood or Mind fallout to Minor, at the end of the service. If you perform this service whilst on a delve, add +D4 to the delve’s resistance.
