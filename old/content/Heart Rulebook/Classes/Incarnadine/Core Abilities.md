@@ -1,5 +1,0 @@
-# THE COST OF DOING BUSINESS
-A mix of scrying and luck magic lets you portion off your fortune to be used as you wish. At any time you may consume a resource and roll its dice; set this dice aside. When you perform an action or inflict stress, but before you roll the dice to resolve it, you may replace any unrolled dice in your pool with the dice you set aside. Once used in this manner, it is consumed. If you have an unspent dice set aside at the end of the session, you take Fortune stress equal to the value rolled on the dice.
-
-# MUTUALLY ASSURED DESTRUCTION
-If you go down, you’re taking them with you. If you die, the wards placed on your soul detonate in an attempt to take down whoever did you in. You explode and inflict stress equal to D8 + your current Fortune stress on anyone standing nearby.
