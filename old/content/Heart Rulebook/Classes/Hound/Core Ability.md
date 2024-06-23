@@ -1,0 +1,2 @@
+# IN THE THICK OF IT
+You have a knack for getting yourself in just enough trouble to find the truth. Once per situation, when you would mark stress to any other resistance than Fortune, mark it to Fortune. When you suffer Fortune fallout, roll with mastery for the remainder of the situation.
